@@ -1,3 +1,3 @@
 # for compile main.cpp
 all:
-	g++ -std=c++11 main.cpp parser.cpp DistanceList.cpp Node.cpp -O3 -o Lab1
+	g++ -std=c++11 main.cpp parser.cpp DistanceList.cpp Node.cpp -O3 -o MMC

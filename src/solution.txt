@@ -1,0 +1,2 @@
+Value of Minimum Mean Cycle: 324.167
+The Cycle: 10 92 26 7 8 9 10 

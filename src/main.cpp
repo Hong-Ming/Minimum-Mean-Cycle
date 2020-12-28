@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Lab1
+//  MMC
 //
 //  Created by Hong-Ming on 6/8/19.
 //  Copyright © 2019 HongMing. All rights reserved.
@@ -71,7 +71,7 @@ DistanceList maximum(DistanceList a, DistanceList b){
 int main(int argc, char** argv)
 {
     if(argc < 2){
-        printf("Usage: ./Lab2 <.in>\n");
+        printf("Usage: ./MMC <.in>\n");
         return 0;
     }
     
@@ -87,8 +87,6 @@ int main(int argc, char** argv)
         }
         pParser->dump();
     }
-    
-    /* Start your code */
     
     // 1. find minimum mean cycle
     
@@ -183,7 +181,9 @@ int main(int argc, char** argv)
         outfile << "No cycle" << endl;
     }
     else{
+        outfile << "Value of Minimum Mean Cycle: ";
         outfile << minimum_mean_cycle.distance << endl;
+        outfile << "The Cycle: ";
         outfile << cycle.top() << " ";
         cycle.pop();
         while (!cycle.empty()) {
