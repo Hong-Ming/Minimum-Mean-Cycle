@@ -39,17 +39,16 @@ Minimum_Mean_Cycle/
 ## Description and Usage
 **Problem Formulation**
 <!-- $$
-\text{Given a directed graph}\ G(V,E)\ \text{and}\ w_e\ \text{denotes the weight of edge}\ e\ \text{. For each cycle}\ c_i \in G,
-$$ -->
-<!-- $$
 \begin{aligned} 
     &\text{Given a directed graph}\ G(V,E)\ \text{and}\ w_e\ \text{denotes the weight of edge}\ e\ \text{. For each cycle}\ c_i \in G, \\
     &\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad 
      w_{c_i}=\sum_{e\in c_i} \frac{w_e}{\left|c_i\right|},   \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad \\
-    &\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the} \\
-    &\text{minimum}\ w_c^*\ \text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*.
+    &\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the minimum}\ w_c^* \\
+    &\text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*.
 \end{aligned}
 $$ --> 
+
+<div align="center"><img src="svg/ZRVY3MtRPh.svg"/></div> 
 
 <div align="center"><img src="svg/7y833gNPpa.svg"/></div> 
 
