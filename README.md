@@ -49,7 +49,7 @@ $$ -->
 $$ --> 
 
 <img style="transform: translateY(0.25em);" src="svg/qwMdUPqrXc.svg"/>
-<div align="center"><img src="svg/clDbXz5n3S.svg"/></div>
+<div align="center" padding="0 2000px"><img src="svg/clDbXz5n3S.svg"/></div>
 <img src="svg/VheqT1hJBg.svg"/>
 
 **Usage**
