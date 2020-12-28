@@ -45,7 +45,7 @@ Minimum_Mean_Cycle/
 <img style="transform: translateY(0.25em);" src="svg/qwMdUPqrXc.svg"/>
 <div align="center"><img src="svg/clDbXz5n3S.svg"/></div>
 <img style="transform: translateY(0.25em);" src="svg/YTdrZiJYxz.svg"/>
-<img style="transform: translateY(0.25em); margin-right:auto;" src="svg/BN4y9gFX2p.svg"/>
+<div style="margin-right:auto"><img style="transform: translateY(0.25em);" src="svg/BN4y9gFX2p.svg"/></div>
 
 
 ## Requirements
