@@ -40,15 +40,14 @@ Minimum_Mean_Cycle/
 **Problem Formulation**
 <!-- $G(V,E)$ -->
 <!-- Given a directed graph <img src="https://render.githubusercontent.com/render/math?math=G">(<img src="https://render.githubusercontent.com/render/math?math=V">,<img src="https://render.githubusercontent.com/render/math?math=E">) and <img src="https://render.githubusercontent.com/render/math?math=w_e"> denotes the weight of edge <img src="https://render.githubusercontent.com/render/math?math=e">. For each cycle <img src="https://render.githubusercontent.com/render/math?math=c"><img src="https://render.githubusercontent.com/render/math?math={}_i"><img src="https://render.githubusercontent.com/render/math?math=\in G">, -->
-<img src="https://render.githubusercontent.com/render/math?math=\text{Given a directed graph}\ G(V,E)\ \text{and}\ w_e\ \text{denotes the weight of edge}\ e\ \text{. For each cycle}\ c_i \in G,">
+<!-- <img src="https://render.githubusercontent.com/render/math?math=\text{Given a directed graph}\ G(V,E)\ \text{and}\ w_e\ \text{denotes the weight of edge}\ e\ \text{. For each cycle}\ c_i \in G,">
 
+<img src="https://render.githubusercontent.com/render/math?math=\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the  minimum}\ w_c^*\ \text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*."> -->
+
+<!-- $\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the  minimum}\ w_c^*\ \text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*.$ --> 
+<img style="transform: translateY(0.25em);" src="svg/qwMdUPqrXc.svg"/>
 <div align="center"><img src="svg/clDbXz5n3S.svg"/></div>
-
-<img src="https://render.githubusercontent.com/render/math?math=\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the minimum}\ w_c^*\ \text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*.">
-
-
-
-\w_{c_i}\geq w_c^*
+<img style="transform: translateY(0.25em);" src="svg/iF7G3W1w7K.svg"/>
 
 
 ## Requirements
