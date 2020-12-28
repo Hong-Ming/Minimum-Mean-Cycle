@@ -46,6 +46,7 @@ w_{c_i}=\sum_{e \in c_i} \frac{w_e}{\left|c_i\right|},
 $$ --> 
 
 <div align="center"><img src="svg/clDbXz5n3S.svg"/></div>
+
 where <img src="https://render.githubusercontent.com/render/math?math=|c_i|"> is the number of edges of <img src="https://render.githubusercontent.com/render/math?math=c_i">. The minimum mean cycle problem is to find the minimum <img src="https://render.githubusercontent.com/render/math?math=w_c^*"> so that <img src="https://render.githubusercontent.com/render/math?math=\forall c_i \in G,\ \w_{c_i}\geq w_c^*">.
 
 
