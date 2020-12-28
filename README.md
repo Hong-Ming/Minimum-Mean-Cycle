@@ -3,11 +3,11 @@
 ## Table of Contents
 - [Intorduction](#intorduction)
 - [Directory Tree](#directory-tree)
+- [Description and Usage](#description-and-usage)
 - [Requirements](#requirements)
 - [Contributor](#contributor)
 
 ## Intorduction
-![problem formulation](https://github.com/Hong-Ming/Minimum_Mean_Cycle/blob/main/problem_formulation.png)
 Designed an algorithm for finding the Minimum Mean Cycle in a weighted directed graph using dynamic programming. This algorithm is an extension of the Bellman-Ford algorithm that computes single source shortest paths and it is capable of finding the minimum mean cycle in polynomial time. This is the final project of the Advanced Algorithm class in NCTU.
 
 ## Directory Tree
@@ -35,6 +35,19 @@ Minimum_Mean_Cycle/
    ├─ pci_bridge32.in .. 
    └─ usb_phy.in ....... 
 </pre>
+
+## Description and Usage
+**Problem Formulation**
+Given a directed graph <img src="https://render.githubusercontent.com/render/math?math=G(V,E)"> and <img src="https://render.githubusercontent.com/render/math?math=w_e"> denotes the weight of edge <img src="https://render.githubusercontent.com/render/math?math=e">. For each cycle <img src="https://render.githubusercontent.com/render/math?math=c_i \in G">,
+
+<!-- <div align="center"><img src="https://render.githubusercontent.com/render/math?math=w_{c_i}=\sum_{e \in c_i}^{}"></div> -->
+<!-- $$
+w_{c_i}=\sum_{e \in c_i} \frac{w_e}{\left|c_i\right|},
+$$ --> 
+
+<div align="center"><img src="svg/clDbXz5n3S.svg"/></div>
+where <img src="https://render.githubusercontent.com/render/math?math=|c_i|"> is the number of edges of <img src="https://render.githubusercontent.com/render/math?math=c_i">. The minimum mean cycle problem is to find the minimum <img src="https://render.githubusercontent.com/render/math?math=w_c^*"> so that <img src="https://render.githubusercontent.com/render/math?math=\forall c_i \in G,\ \w_{c_i}\geq w_c^*">.
+
 
 ## Requirements
 - **C++**
