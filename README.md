@@ -42,10 +42,18 @@ Minimum_Mean_Cycle/
 
 <img src="https://render.githubusercontent.com/render/math?math=\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the  minimum}\ w_c^*\ \text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*."> -->
 
+
+<!-- $$
+\begin{aligned} 
+    &\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the} \\
+    &\text{minimum}\ w_c^*\ \text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*.
+\end{aligned}
+$$ --> 
+
+
 <img style="transform: translateY(0.25em);" src="svg/qwMdUPqrXc.svg"/>
 <div align="center"><img src="svg/clDbXz5n3S.svg"/></div>
-<img style="transform: translateY(0.25em);" src="svg/YTdrZiJYxz.svg"/>
-<div style="margin-right:auto"><img style="transform: translateY(0.25em);" src="svg/BN4y9gFX2p.svg"/></div>
+<img src="svg/VheqT1hJBg.svg"/>
 
 
 ## Requirements
