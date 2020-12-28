@@ -46,15 +46,9 @@ Minimum_Mean_Cycle/
     &\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the minimum}\ w_c^* \\
     &\text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*.
 \end{aligned}
-$$ --> 
+$$  -->
 
-<div align="center"><img src="svg/ZRVY3MtRPh.svg"/></div> 
-
-<div align="center"><img src="svg/7y833gNPpa.svg"/></div> 
-
-<!-- <img style="transform: translateY(0.25em);" src="svg/qwMdUPqrXc.svg"/>
-<div align="center" padding="0 2000px"><img src="svg/clDbXz5n3S.svg"/></div>
-<img src="svg/VheqT1hJBg.svg"/> -->
+<img src="svg/ZRVY3MtRPh.svg"/>
 
 **Usage**
 
