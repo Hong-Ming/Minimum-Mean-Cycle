@@ -39,7 +39,7 @@ Minimum_Mean_Cycle/
 ## Description and Usage
 **Problem Formulation**
 <!-- $G(V,E)$ -->
-Given a directed graph <img style="transform: translateY(0.25em);" src="https://render.githubusercontent.com/render/math?math=G(V,E)"> and <img src="https://render.githubusercontent.com/render/math?math=w_e"> denotes the weight of edge <img src="https://render.githubusercontent.com/render/math?math=e">. For each cycle <img style="transform: translateY(0.25em);" src="https://render.githubusercontent.com/render/math?math=c_i \in G">,
+Given a directed graph <img style="transform: translateY(0.25em);" src="svg/2phJjBOQrp.svg"/> <img style="transform: translateY(0.25em);" src="https://render.githubusercontent.com/render/math?math=G(V,E)"> and <img src="https://render.githubusercontent.com/render/math?math=w_e"> denotes the weight of edge <img src="https://render.githubusercontent.com/render/math?math=e">. For each cycle <img style="transform: translateY(0.25em);" src="https://render.githubusercontent.com/render/math?math=c_i \in G">,
 
 <div align="center"><img src="svg/clDbXz5n3S.svg"/></div>
 
