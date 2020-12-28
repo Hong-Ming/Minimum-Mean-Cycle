@@ -38,11 +38,9 @@ Minimum_Mean_Cycle/
 
 ## Description and Usage
 **Problem Formulation**
-<!-- <img src="https://render.githubusercontent.com/render/math?math=\text{Given a directed graph}\ G(V,E)\ \text{and}\ w_e\ \text{denotes the weight of edge}\ e\ \text{. For each cycle}\ c_i \in G,">
-
-<img src="https://render.githubusercontent.com/render/math?math=\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the  minimum}\ w_c^*\ \text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*."> -->
-
-
+<!-- $$
+\text{Given a directed graph}\ G(V,E)\ \text{and}\ w_e\ \text{denotes the weight of edge}\ e\ \text{. For each cycle}\ c_i \in G,
+$$ -->
 <!-- $$
 \begin{aligned} 
     &\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the} \\
@@ -50,10 +48,12 @@ Minimum_Mean_Cycle/
 \end{aligned}
 $$ --> 
 
-
 <img style="transform: translateY(0.25em);" src="svg/qwMdUPqrXc.svg"/>
 <div align="center"><img src="svg/clDbXz5n3S.svg"/></div>
 <img src="svg/VheqT1hJBg.svg"/>
+
+**Usage**
+
 
 
 ## Requirements
