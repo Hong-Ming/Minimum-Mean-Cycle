@@ -38,12 +38,8 @@ Minimum_Mean_Cycle/
 
 ## Description and Usage
 **Problem Formulation**
-Given a directed graph <img src="https://render.githubusercontent.com/render/math?math=G(V,E)"> and <img src="https://render.githubusercontent.com/render/math?math=w_e"> denotes the weight of edge <img src="https://render.githubusercontent.com/render/math?math=e">. For each cycle <img src="https://render.githubusercontent.com/render/math?math=c_i \in G">,
 
-<!-- <div align="center"><img src="https://render.githubusercontent.com/render/math?math=w_{c_i}=\sum_{e \in c_i}^{}"></div> -->
-<!-- $$
-w_{c_i}=\sum_{e \in c_i} \frac{w_e}{\left|c_i\right|},
-$$ --> 
+Given a directed graph <img src="https://render.githubusercontent.com/render/math?math=G(V,E)"> and <img src="https://render.githubusercontent.com/render/math?math=w_e"> denotes the weight of edge <img src="https://render.githubusercontent.com/render/math?math=e">. For each cycle <img src="https://render.githubusercontent.com/render/math?math=c_i \in G">,
 
 <div align="center"><img src="svg/clDbXz5n3S.svg"/></div>
 
