@@ -39,11 +39,16 @@ Minimum_Mean_Cycle/
 ## Description and Usage
 **Problem Formulation**
 <!-- $G(V,E)$ -->
-Given a directed graph <img src="https://render.githubusercontent.com/render/math?math=G">(<img src="https://render.githubusercontent.com/render/math?math=V">,<img src="https://render.githubusercontent.com/render/math?math=E">) and <img src="https://render.githubusercontent.com/render/math?math=w_e"> denotes the weight of edge <img src="https://render.githubusercontent.com/render/math?math=e">. For each cycle <img src="https://render.githubusercontent.com/render/math?math=c"><img src="https://render.githubusercontent.com/render/math?math={}_i"><img src="https://render.githubusercontent.com/render/math?math=\in G">,
+<!-- Given a directed graph <img src="https://render.githubusercontent.com/render/math?math=G">(<img src="https://render.githubusercontent.com/render/math?math=V">,<img src="https://render.githubusercontent.com/render/math?math=E">) and <img src="https://render.githubusercontent.com/render/math?math=w_e"> denotes the weight of edge <img src="https://render.githubusercontent.com/render/math?math=e">. For each cycle <img src="https://render.githubusercontent.com/render/math?math=c"><img src="https://render.githubusercontent.com/render/math?math={}_i"><img src="https://render.githubusercontent.com/render/math?math=\in G">, -->
+<img src="https://render.githubusercontent.com/render/math?math=\text{Given a directed graph}\ G(V,E)\ \text{and}\ w_e\ \text{denotes the weight of edge}\ e\ \text{. For each cycle}\ c_i \in G,">
 
 <div align="center"><img src="svg/clDbXz5n3S.svg"/></div>
 
-where <img src="https://render.githubusercontent.com/render/math?math=|c_i|"> is the number of edges of <img src="https://render.githubusercontent.com/render/math?math=c_i">. The minimum mean cycle problem is to find the minimum <img src="https://render.githubusercontent.com/render/math?math=w_c^*"> so that <img src="https://render.githubusercontent.com/render/math?math=\forall c_i \in G,\ \w_{c_i}\geq w_c^*">.
+<img src="https://render.githubusercontent.com/render/math?math=\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the minimum}\ w_c^*\ \text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*.">
+
+
+
+\w_{c_i}\geq w_c^*
 
 
 ## Requirements
