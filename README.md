@@ -44,10 +44,12 @@ Minimum_Mean_Cycle/
 
 <img src="https://render.githubusercontent.com/render/math?math=\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the  minimum}\ w_c^*\ \text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*."> -->
 
-<!-- $\text{where}\ \left|c_i\right|\ \text{is the number of edges of}\ c_i\ \text{. The minimum mean cycle problem is to find the  minimum}\ w_c^*\ \text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*.$ --> 
+<!-- $\text{minimum}\ w_c^*\ \text{so that}\ \forall c_i \in G,\ w_{c_i}\geq w_c^*.$ --> 
 <img style="transform: translateY(0.25em);" src="svg/qwMdUPqrXc.svg"/>
 <div align="center"><img src="svg/clDbXz5n3S.svg"/></div>
-<img style="transform: translateY(0.25em);" src="svg/iF7G3W1w7K.svg"/>
+<img style="transform: translateY(0.25em);" src="svg/YTdrZiJYxz.svg"/>
+<img style="transform: translateY(0.25em);" src="svg/BN4y9gFX2p.svg"/>
+<!-- <img style="transform: translateY(0.25em);" src="svg/iF7G3W1w7K.svg"/> -->
 
 
 ## Requirements
