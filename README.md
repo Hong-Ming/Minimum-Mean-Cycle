@@ -1,11 +1,13 @@
 # Minimum Mean Cycle Problem
 
 ## Table of Contents
-- [Intorduction](#intorduction)
-- [Directory Tree](#directory-tree)
-- [Description and Usage](#description-and-usage)
-- [Requirements](#requirements)
-- [Contributor](#contributor)
+- [Minimum Mean Cycle Problem](#minimum-mean-cycle-problem)
+    - [Table of Contents](#table-of-contents)
+    - [Intorduction](#intorduction)
+    - [Directory Tree](#directory-tree)
+    - [Description and Usage](#description-and-usage)
+    - [Requirements](#requirements)
+    - [Contributor](#contributor)
 
 ## Intorduction
 Designed an algorithm for finding the Minimum Mean Cycle in a weighted directed graph using dynamic programming. This algorithm is an extension of the Bellman-Ford algorithm for computing single source shortest paths, and it is capable of finding the minimum mean cycle in polynomial time. This is the final project of the Advanced Algorithm class in NCTU.
